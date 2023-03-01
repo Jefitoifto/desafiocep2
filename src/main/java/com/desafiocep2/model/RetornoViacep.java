@@ -2,7 +2,6 @@ package com.desafiocep2.model;
 
 
 /*{
-
 "cep": "01001-000",
 "rua": "Praça da Sé",
 "complemento": "lado ímpar",
@@ -10,7 +9,6 @@ package com.desafiocep2.model;
 "cidade": "São Paulo",
 "estado": "SP",
 "frete": 7.85
-
 
     }*/
 public class RetornoViacep {
